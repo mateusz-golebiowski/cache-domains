@@ -1,1 +1,2 @@
-download4.erista.me
+download*.erista.me
+dl.hshopusercontent.com
