@@ -126,6 +126,6 @@
 			"name": "hshop",
 			"description": "CDN for hshop",
 			"domain_files": ["hsop.txt"]
-		},
+		}
 	]
 }
